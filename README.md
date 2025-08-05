@@ -10,7 +10,7 @@
 | I        | Etica Si Integritate Academica (EIA)                             | 1 | - | - | - | V  | 2       |
 | I        | [Practica](https://fmi.unibuc.ro/practica/)                                                  | - | 2 | - | - | V  | 4       |
 | II       | [Aplicatii Web Pentru Baze De Date (AWBD)](https://github.com/FMI-Materials/FMI-Master-BDTS-Materials/tree/main/Year%20I/Semester%20II/Aplicatii%20Web%20Pentru%20Baze%20De%20Date)                  | 2 | 1 | - | - | E  | 6       |
-| II       | Big Data (BD)                                                    | 2 | 1 | - | - | E  | 6       |
+| II       | [Big Data (BD)](https://github.com/FMI-Materials/FMI-Master-BDTS-Materials/tree/main/Year%20I/Semester%20II/Big%20Data)                                             | 2 | 1 | - | - | E  | 6       |
 | II       | [Dezvoltare Software Pentru Dispozitive Mobile (DSDM)](https://github.com/FMI-Materials/FMI-Master-BDTS-Materials/tree/main/Year%20I/Semester%20II/Dezvoltare%20Software%20Pentru%20Dispozitive%20Mobile)      | 1 | 2 | - | - | E  | 6       |
 | II       | [Optional 2](https://github.com/FMI-Materials/FMI-Master-BDTS-Materials/tree/main/Year%20I/Semester%20II/Optional)                                                | 2 | 1 | - | - | E  | 6       |
 | II       | [Practica](https://fmi.unibuc.ro/practica/)                                                  | - | 2 | - | - | V  | 6       |
